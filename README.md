@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   HỆ THỐNG QUẢN LÝ DINH DƯỠNG CÁ NHÂN. 
+   XÂY DỰNG HỆ THỐNG PHẦN MỀM HỖ TRỢ KHÁCH DU LỊCH TỰ KHÁM PHÁ VÀ TRẢI NGHIỆM DU LỊCH QUA CHƯƠNG TRÌNH VẬN ĐỘNG. 
 </h2>
 </h2>
 <div align="center">
